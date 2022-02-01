@@ -1,0 +1,85 @@
+{
+  "Numbers": [
+    {
+      "title": "Deployment",
+      "month": "Last Month",
+      "no": "100",
+      "sub": "-50"
+    },
+    {
+      "title": "Contributors",
+      "month": "Last Month",
+      "no": "30",
+      "sub": "5"
+    },
+    {
+      "title": "Live issues",
+      "month": "Last Month",
+      "no": "140",
+      "sub": "1"
+    },
+    {
+      "title": "PR Opened",
+      "month": "Last Month",
+      "no": "250",
+      "sub": "-42"
+    },
+    {
+      "title": "PR Merged",
+      "month": "Last Month",
+      "no": "150",
+      "sub": "100"
+    }
+  ],
+  "CycleTime": [
+    {
+      "title": "Live Issues",
+      "month": "Last Month",
+      "no": "2 days",
+      "sub": "0"
+    },
+    {
+      "title": "PR",
+      "month": "Last Month",
+      "no": "1 days",
+      "sub": "0"
+    },
+    {
+      "title": "Story",
+      "month": "Last Month",
+      "no": "15 days",
+      "sub": "-5"
+    }
+  ],
+  "Chart": [
+    {
+      "labels": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5"],
+      "datasets": [
+        {
+          "label": "Deployment",
+          "data": ["40", "40", "10", "40", "60"]
+        }
+      ]
+    }
+  ],
+  "Milestone": [
+    {
+      "title": "My orders page enhancement completed",
+      "month": "Last Month"
+    }
+  ],
+  "AreasOfConcern": [
+    {
+      "title": "Scope for multi-deployment of a microservice scope increased. Forecasted date of competion Oct 2022",
+      "month": "Last Month"
+    },
+    {
+      "title": "Ratio of PR merged vs opened has come down",
+      "month": "Last Month"
+    },
+    {
+      "title": "10% more live issues",
+      "month": "Last Month"
+    }
+  ]
+}

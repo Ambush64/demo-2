@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Poppins", sans-serif;
+  font-size: 62.5%;
+  margin: 10px;
+}
+
+.container-fluid {
+  font-size: 1.4rem;
+}
+
+.main-div {
+  background-color: rgba(85, 54, 168, 0.575);
+  border-radius: 20px;
+}
+
+.cards {
+  border-radius: 5px;
+}
+
+.cards:nth-of-type(odd) {
+  background-color: rgba(233, 227, 227, 0.2);
+}
+
+.chart {
+  background-color: rgba(91, 86, 100, 0.1);
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.content p span {
+  color: rgb(0, 255, 0);
+}
